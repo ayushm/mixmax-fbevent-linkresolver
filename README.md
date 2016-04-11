@@ -45,7 +45,7 @@ $ npm start
 
 * Make responsive (currently not optimized for mobile)
 * Authenticate email sender/recipient with Facebook to add:
-..* private events
-..* ability for user to accept event invite
-..* see friends that are attending
+	* private events
+	* ability for user to accept event invite
+	* see friends that are attending
 
