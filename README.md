@@ -44,6 +44,7 @@ $ npm start
 ### TODOs
 
 * Make responsive (currently not optimized for mobile)
+* Fix flickering issue in compose window (does not appear for recipient)
 * Authenticate email sender/recipient with Facebook to add:
 	* private events
 	* ability for user to accept event invite
